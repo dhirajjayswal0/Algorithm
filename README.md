@@ -4,3 +4,4 @@
 2 Binary search
 
 3 Merge sort
+4 Bubble sort
